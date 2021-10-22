@@ -16,4 +16,4 @@
 ## 2. 과제 제출
 - 1장 - [[NLP-02] Sentence_Piece](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-02%5D%20Sentence_Piece.ipynb>)
 - 2장 - [[NLP-04] vocabulary size](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-04%5D%20vocabulary%20size.ipynb>)
-- 3장 - [NLP-06] WEAT score](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-06%5D%20WEAT%20score%20.ipynb>)
+- 3장 - [NLP-06] WEAT score].(<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-06%5D%20WEAT%20score%20.ipynb>)
