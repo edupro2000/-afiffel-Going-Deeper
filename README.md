@@ -10,10 +10,11 @@
 - 7장 - [Seq2seq와 Attention](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/7.%20Seq2seq%EC%99%80%20Attention.ipynb>)
 - 8장 - [어텐션(Attention)](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/8.%20Seq2seq%EC%9C%BC%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb>)
 - 9장 - [Transformer가 나오기까지](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/9.%20Transformer%EA%B0%80%20%EB%82%98%EC%98%A4%EA%B8%B0%EA%B9%8C%EC%A7%80.ipynb>)
-
+- 10장 - [Transformer로 번역기 만들기](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/10.%20Transformer%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb>)
 
 
 ## 2. 과제 제출
-- 1장 - [[NLP-02] Sentence_Piece](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-02%5D%20Sentence_Piece.ipynb>)
-- 2장 - [[NLP-04] vocabulary size](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-04%5D%20vocabulary%20size.ipynb>)
-- 3장 - [[NLP-06] WEAT score](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-06%5D%20WEAT%20score%20.ipynb>)
+- 1번 - [[NLP-02] Sentence_Piece](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-02%5D%20Sentence_Piece.ipynb>)
+- 2번 - [[NLP-04] vocabulary size](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-04%5D%20vocabulary%20size.ipynb>)
+- 3번 - [[NLP-06] WEAT score](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-06%5D%20WEAT%20score%20.ipynb>)
+- 5번 - [[NLP-10] Transformer](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-10%5D%20Transformer.ipynb>)
