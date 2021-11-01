@@ -18,3 +18,4 @@
 - 2번 - [[NLP-04] vocabulary size](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-04%5D%20vocabulary%20size.ipynb>)
 - 3번 - [[NLP-06] WEAT score](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-06%5D%20WEAT%20score%20.ipynb>)
 - 5번 - [[NLP-10] Transformer](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-10%5D%20Transformer.ipynb>)
+- 6번 - [[NLP-12] Chatbot](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/%5BNLP-10%5D%20Transformer.ipynb>) *미완
