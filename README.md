@@ -11,6 +11,11 @@
 - 8장 - [어텐션(Attention)](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/8.%20Seq2seq%EC%9C%BC%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb>)
 - 9장 - [Transformer가 나오기까지](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/9.%20Transformer%EA%B0%80%20%EB%82%98%EC%98%A4%EA%B8%B0%EA%B9%8C%EC%A7%80.ipynb>)
 - 10장 - [Transformer로 번역기 만들기](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/10.%20Transformer%EB%A1%9C%20%EB%B2%88%EC%97%AD%EA%B8%B0%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb>)
+- 11장 - [기계 번역이 걸어온 길](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/11.%20%EA%B8%B0%EA%B3%84%20%EB%B2%88%EC%97%AD%EC%9D%B4%20%EA%B1%B8%EC%96%B4%EC%98%A8%20%EA%B8%B8.ipynb
+>) *재정리 삭제예정
+- 12장 - [번역가는 대화에도 능하다](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/12.%20%EB%B2%88%EC%97%AD%EA%B0%80%EB%8A%94%20%EB%8C%80%ED%99%94%EC%97%90%EB%8F%84%20%EB%8A%A5%ED%95%98%EB%8B%A4.ipynb
+>)
+- 13장 - [modern NLP의 흐름에 올라타보자](<https://github.com/edupro2000/-afiffel-Going-Deeper/blob/main/13.%20modern%20NLP%EC%9D%98%20%ED%9D%90%EB%A6%84%EC%97%90%20%EC%98%AC%EB%9D%BC%ED%83%80%EB%B3%B4%EC%9E%90.ipynb>)
 
 
 ## 2. 과제 제출
